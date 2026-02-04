@@ -2,7 +2,7 @@
   <el-steps
     style="max-width: 600px"
     :space="200"
-    :active="1"
+    :active="2"
     finish-status="success"
   >
     <el-step title="Done" />
